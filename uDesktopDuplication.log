@@ -1,15 +1,21 @@
-[uDD::Log][2020-11-13 23:26:41] Start
-[uDD::Log][2020-11-13 23:26:41] OS Version    : 10.0
-[uDD::Log][2020-11-13 23:26:41] Build Number  : 18363
-[uDD::Log][2020-11-13 23:26:41] Service Pack  : 
-[uDD::Log][2020-11-13 23:26:41] Graphics Card [0] : Intel(R) UHD Graphics 620
-[uDD::Log][2020-11-13 23:26:41]   > Monitor[0] : \\.\DISPLAY1
-[uDD::Log][2020-11-13 23:26:41] Graphics Card [1] : NVIDIA GeForce GTX 1060
-[uDD::Log][2020-11-13 23:26:41] Graphics Card [2] : Microsoft Basic Render Driver
-[uDD::Log][2020-11-13 23:26:41] Monitor::Initialized() =>
-[uDD::Log][2020-11-13 23:26:41]     ID    : 0
-[uDD::Log][2020-11-13 23:26:41]     Size  : (3240, 2160)
-[uDD::Log][2020-11-13 23:26:41]     DPI   : (259, 260)
-[uDD::Log][2020-11-13 23:26:41]     Rot   : Landscape
-[uDD::Log][2020-11-13 23:26:41] Duplicator::Initialize() => OK.
-[uDD::Log][2020-11-13 23:28:09] Stop
+[uDD::Log][2020-11-16 10:02:38] Start
+[uDD::Log][2020-11-16 10:02:38] OS Version    : 10.0
+[uDD::Log][2020-11-16 10:02:38] Build Number  : 19042
+[uDD::Log][2020-11-16 10:02:38] Service Pack  : 
+[uDD::Log][2020-11-16 10:02:38] Graphics Card [0] : NVIDIA GeForce RTX 3090
+[uDD::Log][2020-11-16 10:02:38]   > Monitor[0] : \\.\DISPLAY1
+[uDD::Log][2020-11-16 10:02:38]   > Monitor[1] : \\.\DISPLAY2
+[uDD::Log][2020-11-16 10:02:38] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-11-16 10:02:38] Monitor::Initialized() =>
+[uDD::Log][2020-11-16 10:02:38]     ID    : 0
+[uDD::Log][2020-11-16 10:02:38]     Size  : (1920, 1080)
+[uDD::Log][2020-11-16 10:02:38]     DPI   : (81, 81)
+[uDD::Log][2020-11-16 10:02:38]     Rot   : Landscape
+[uDD::Log][2020-11-16 10:02:38] Duplicator::Initialize() => OK.
+[uDD::Log][2020-11-16 10:02:38] Monitor::Initialized() =>
+[uDD::Log][2020-11-16 10:02:38]     ID    : 1
+[uDD::Log][2020-11-16 10:02:38]     Size  : (1920, 1080)
+[uDD::Log][2020-11-16 10:02:38]     DPI   : (91, 91)
+[uDD::Log][2020-11-16 10:02:38]     Rot   : Landscape
+[uDD::Log][2020-11-16 10:02:38] Duplicator::Initialize() => OK.
+[uDD::Log][2020-11-16 10:06:10] Stop

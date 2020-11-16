@@ -98,7 +98,7 @@ namespace ViveSR.anipal.Eye
 
                         ////writes data to file
                         WriteToPC(_gameTime + "," + FocusInfo.point.ToString() + "," + FocusInfo.normal.ToString() + "," +
-                            FocusInfo.transform.name.ToString() + "," + FocusPointOnObjectX.ToString() + "," + FocusPointOnObjectY.ToString() + "," + FocusPointOnObjectZ.ToString() + "," + eyeData.verbose_data.combined.eye_data.gaze_direction_normalized.ToString() + "," +
+                            FocusInfo.transform.name.ToString() + "," + FocusPointOnObjectX.Value.ToString() + "," + FocusPointOnObjectY.Value.ToString() + "," + FocusPointOnObjectZ.Value.ToString() + "," + eyeData.verbose_data.combined.eye_data.gaze_direction_normalized.ToString() + "," +
                             eyeData.verbose_data.combined.eye_data.gaze_origin_mm.ToString() + "," + eyeData.verbose_data.left.pupil_diameter_mm.ToString() + "," + eyeData.verbose_data.right.pupil_diameter_mm.ToString(), _dataFileName); ; ;
                         _prevFrame = eyeData.frame_sequence;
                         //Debug.Log(_currentObject + _lookedInSec);
